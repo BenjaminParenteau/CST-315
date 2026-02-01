@@ -1,0 +1,4 @@
+Name: Benjamin Parenteau
+Course: CST-315
+Assignment: CLC Producer/Consumer Threads
+Date: January 30, 2026
