@@ -1,0 +1,9 @@
+Testing Performed:
+
+1. Single command execution (ls)
+2. Multiple concurrent commands (ls; pwd; date)
+3. Batch mode execution
+4. End execution via Ctrl-C
+5. Exit shell via Ctrl-\
+
+All functionality executed successfully.
