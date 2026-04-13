@@ -1,0 +1,5 @@
+Software Requirements:
+
+Operating System: Linux
+Compiler: GCC
+Language: C (POSIX compliant)
